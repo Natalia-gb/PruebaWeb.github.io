@@ -1,0 +1,221 @@
+.caja1{
+	position: fixed;
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	margin-left: -10px;
+	margin-right: -5;
+	margin-top: -8px;
+	z-index: 5;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 5px;
+}
+.privacidad{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+}
+.idioma{
+	position: static;
+	display: inline;
+	background-color: white;
+	margin-right: 50px;
+	margin-top: -58px;
+	float: right;
+}
+h1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 45px;
+	margin-top: 120px;
+	margin-left: 15px;
+}
+.imprimir{
+	position: absolute;
+	border: 1px solid black;
+	font-family: Calibri;
+	font-size: 30px;
+	width: 200px;
+	height: 40px;
+	margin-top: 140px;
+	margin-left: 1200px;
+}
+.impreso{
+	position: absolute;
+	margin-left: 55px;
+	margin-top: -20px;
+}
+.foto{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	margin-top: -15px;
+	margin-left: -80px;
+}
+.declaración{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 40px;
+	margin-top: 200px;
+}
+.contacto{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-top: 270px;
+	margin-left: 40px;
+}
+.contacto1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 305px;
+}
+.contacto2{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 390px;
+}
+.informacion{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-top: 520px;
+	margin-left: 40px;
+}
+.informacion1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 555px;
+}
+.informacion12{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 590px;
+}
+.informacion13{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 120px;
+	margin-top: 630px;
+}
+.informacion14{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 120px;
+	margin-top: 720px;
+}
+.informacion2{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 785px;
+}
+.informacion21{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 120px;
+	margin-top: 870px;
+}
+.informacion22{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 120px;
+	margin-top: 900px;
+}
+.informacion23{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 120px;
+	margin-top: 930px;
+}
+.informacion24{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 120px;
+	margin-top: 985px;
+}
+.informacion3{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 1040px;
+}
+.caja4{
+	position: absolute;
+	margin-top: 1160px;
+	margin-left: -8px;
+	margin-right: -20px;
+	width: 100%;
+	background-color: black;
+	height: 125px;
+}
+.logo1{
+	width: 200px;
+	height: 90px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+.instagram{
+	width: 60px;
+	height: 60px;
+	float: right;
+	margin-right: 50px;
+	margin-top: -70px;
+	display: inline;
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-right: 170px;
+	margin-top: -70px;
+	float: right;
+	display: inline;
+}
+.twitter{
+	width: 60px;
+	height: 60px;
+	margin-right: 280px;
+	margin-top: -70px;
+	float: right;
+	display: inline;	
+}
+.youtube{
+	width: 60px;
+	height: 60px;
+	margin-right: 400px;
+	float: right;
+	margin-top: -70px;
+	display: inline;
+}
+.privacidad1{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+	margin-top: 50px;
+}

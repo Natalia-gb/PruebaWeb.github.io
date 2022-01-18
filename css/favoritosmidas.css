@@ -1,0 +1,66 @@
+body{
+	background-color: black;
+}
+.atrás{
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	float: left;
+}
+.video{
+	position: static;
+	margin-top: 70px;
+	width: 99%;
+	height: 400px;
+}
+.caja1{
+	margin-top: 50px;
+}
+.coincidencia{
+	color: green;
+	font-family: Malvie Trial;
+	font-size: 15px;
+	display: inline;
+	margin-left: 10px;
+}
+.cabecera{
+	color: white;
+	font-family: Malvie Trial;
+	font-size: 15px;
+	display: inline;
+	margin-left: 15px;
+}
+.edad{
+	border: 1px solid orange;
+	background-color: orange;
+	color: black;
+	font-family: Malvie Trial;
+	font-size: 15px;
+	width: 30px;
+	height: 40px;
+	margin-left: 10px;
+	display: inline;
+}
+.resumen{
+	margin-top: 60px;
+}
+.historia{
+	color: white;
+	font-family: Malvie Trial;
+	font-size: 25px;
+}
+.reparto1{
+	color: white;
+	font-family: Malvie Trial;
+	font-size: 25px;
+}
+.reparto2{
+	color: white;
+	font-family: Malvie Trial;
+	font-size: 25px;
+}
+.reparto3{
+	color: white;
+	font-family: Malvie Trial;
+	font-size: 25px;
+}

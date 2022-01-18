@@ -1,0 +1,261 @@
+body{
+	background-color: black;
+}
+.caja1{
+	position: fixed;
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	margin-left: -10px;
+	margin-right: -5;
+	margin-top: -8px;
+	z-index: 5;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 5px;
+}
+.preguntas{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+}
+.idioma{
+	position: static;
+	display: inline;
+	background-color: white;
+	margin-right: 50px;
+	margin-top: -58px;
+	float: right;
+}
+.netflux{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 50px;
+	margin-left: 60px;
+	margin-top: 120px;
+}
+.imagen1{
+	position: absolute;
+	width: 900px;
+	height: 350px;
+	margin-top: 200px;
+	margin-left: 60px;
+}
+.comentario1{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 570px;
+}
+.comentario2{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 640px;
+}
+.comentario3{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 710px;
+}
+.linea{
+	position: absolute;
+	height: 2px;
+	width: 65%;
+	margin-top: 760px;
+}
+.seriespeliculas{
+	position: absolute;
+	color: white;
+	font-family: Calibri; 
+	font-size: 35px;
+	margin-left: 60px;
+	margin-top: 790px;
+}
+.imagen2{
+	position: absolute;
+	width: 900px;
+	height: 350px;
+	margin-top: 855px;
+	margin-left: 60px;
+}
+.comentario4{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 1230px;
+}
+.comentario5{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 1305px;
+}
+.linea2{
+	position: absolute;
+	height: 2px;
+	width: 65%;
+	margin-top: 1350px;
+}
+.dispositivos{
+	position: absolute;
+	color: white;
+	font-family: Calibri; 
+	font-size: 35px;
+	margin-left: 60px;
+	margin-top: 1380px;
+}
+.imagen3{
+	position: absolute;
+	width: 900px;
+	height: 350px;
+	margin-top: 1450px;
+	margin-left: 60px;
+}
+.comentario6{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 1830px;
+}
+.linea3{
+	position: absolute;
+	height: 2px;
+	width: 65%;
+	margin-top: 1975px;
+}
+.planes{
+	position: absolute;
+	color: white;
+	font-family: Calibri; 
+	font-size: 35px;
+	margin-left: 60px;
+	margin-top: 2005px;
+}
+.imagen4{
+	position: absolute;
+	width: 900px;
+	height: 350px;
+	margin-top: 2080px;
+	margin-left: 60px;
+}
+.comentario7{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 2460px;
+}
+.comentario8{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 2535px;
+}
+.linea4{
+	position: absolute;
+	height: 2px;
+	width: 65%;
+	margin-top: 2620px;
+}
+.empieza{
+	position: absolute;
+	color: white;
+	font-family: Calibri; 
+	font-size: 35px;
+	margin-left: 60px;
+	margin-top: 2655px;
+}
+.imagen5{
+	position: absolute;
+	width: 900px;
+	height: 350px;
+	margin-top: 2730px;
+	margin-left: 60px;
+}
+.lista1{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-left: 60px;
+	margin-top: 3120px;
+}
+.caja2{
+	position: absolute;
+	margin-top: 3330px;
+	margin-left: -8px;
+	margin-right: -20px;
+	width: 100%;
+	background-color: black;
+	height: 125px;
+}
+.logo1{
+	width: 200px;
+	height: 90px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+.instagram{
+	width: 60px;
+	height: 60px;
+	float: right;
+	margin-right: 50px;
+	margin-top: -70px;
+	display: inline;
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-right: 170px;
+	margin-top: -70px;
+	float: right;
+	display: inline;
+}
+.twitter{
+	width: 60px;
+	height: 60px;
+	margin-right: 280px;
+	margin-top: -70px;
+	float: right;
+	display: inline;	
+}
+.youtube{
+	width: 60px;
+	height: 60px;
+	margin-right: 400px;
+	float: right;
+	margin-top: -70px;
+	display: inline;
+}
+.preguntas1{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+	margin-top: 50px;
+}

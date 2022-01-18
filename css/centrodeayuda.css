@@ -1,0 +1,420 @@
+.caja1{
+	position: fixed;
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	margin-left: -10px;
+	margin-right: -5;
+	margin-top: -8px;
+	z-index: 5;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 5px;
+}
+.centro{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+}
+.idioma{
+	position: static;
+	display: inline;
+	background-color: white;
+	margin-right: 50px;
+	margin-top: -55px;
+	float: right;
+}
+.caja2{
+	position: absolute;
+	background-color: black;
+	width: 320px;
+	height: 250px;
+	margin-top: 90px;
+	margin-left: -10px;
+}
+.logo1{
+	position: absolute;
+	width: 300px;
+	height: 200px;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.caja21{
+	position: absolute;
+	width: 500px;
+	height: 250px;
+	margin-top: 0px;
+	margin-left: 320px;
+}
+.foto{
+	width: 1218px;
+	height: 250px;
+	filter: brightness(70%);
+}
+.caja3{
+	position: absolute;
+	background-color: #FDEBD0;
+	width: 1535px;
+	height: 250px;
+	margin-top: 340px;
+	margin-left: -10px;
+}
+.usuario{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 35px;
+	margin-left: 70px;
+}
+.recomendaciones{
+	position: absolute;
+	font-family:Calibri;
+	font-size: 19px;
+	margin-left: 70px;
+	margin-top: 75px;
+}
+.caja31{
+	position: absolute;
+	background-color: white;
+	margin-left: 70px;
+	margin-top: 140px;
+	width: 520px;
+	height: 50px;
+	display: inline;
+}
+.hoja{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.comentario1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 18px;
+	margin-left: 50px;
+	margin-top: 15px;
+}
+.caja32{
+	position: absolute;
+	background-color: white;
+	margin-left: 700px;
+	margin-top: 140px;
+	width: 250px;
+	height: 50px;
+	display: inline;
+}
+.hoja2{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.comentario2{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 18px;
+	margin-left: 50px;
+	margin-top: 15px;
+}
+.caja33{
+	position: absolute;
+	background-color: white;
+	margin-left: 1050px;
+	margin-top: 140px;
+	width: 280px;
+	height: 50px;
+	display: inline;
+}
+.hoja3{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	margin-top: 10px;
+	margin-left: 15px;
+}
+.comentario3{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 18px;
+	margin-left: 50px;
+	margin-top: 15px;
+}
+.linea{
+	position: absolute;
+	margin-top: 250px;
+	width: 100%;
+	height: 2px;
+}
+.caja4{
+	position: absolute;
+	background-color: #F1948A;
+	width: 1535px;
+	height: 480px;
+	margin-top: 594px;
+	margin-left: -10px;
+}
+.caja41{
+	position: absolute;
+	margin-left: 40px;
+	margin-top: 50px;
+	width: 270px;
+	height: 300px;
+	display: inline;
+}
+.cuenta{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-left: 9px;
+}
+.planes{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 60px;
+	margin-left: 9px;
+}
+.correo{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 100px;
+	margin-left: 9px;
+}	
+.plan{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 235px;
+	margin-left: 9px;
+}
+.caja42{
+	position: absolute;
+	margin-left: 340px;
+	margin-top: 50px;
+	width: 270px;
+	height: 350px;
+	display: inline;
+}
+.ver{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-left: 21px;
+}
+.impedir{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 60px;
+	margin-left: 9px;
+}
+.mensaje{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 130px;
+	margin-left: 9px;
+}
+.problemas{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 260px;
+	margin-left: 9px;
+}
+.caja43{
+	position: absolute;
+	margin-left: 640px;
+	margin-top: 50px;
+	width: 270px;
+	height: 350px;
+	display: inline;
+}
+.preguntas{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-left: 24px;
+}
+.pagos{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 95px;
+	margin-left: 9px;
+}
+.mensaje1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 135px;
+	margin-left: 9px;
+}
+.tarjetas{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 295px;
+	margin-left: 9px;
+}
+.caja44{
+	position: absolute;
+	margin-left: 935px;
+	margin-top: 50px;
+	width: 270px;
+	height: 350px;
+	display: inline;
+}
+.verNetflux{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-left: 40px;
+}
+.perfiles{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 58px;
+	margin-left: 9px;
+}
+.televisor{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 130px;
+	margin-left: 9px;
+}
+.descargar{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 205px;
+	margin-left: 9px;
+}
+.caja45{
+	position: absolute;
+	margin-left: 1230px;
+	margin-top: 50px;
+	width: 270px;
+	height: 400px;
+	display: inline;
+}
+.enlaces{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-top: 15px;
+	margin-left: 40px;
+}
+.solicitar{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 58px;
+	margin-left: 15px;
+}
+.actualizar{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 125px;
+	margin-left: 9px;
+}
+.contraseña{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 170px;
+	margin-left: 9px;
+}
+.metodopago{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 215px;
+	margin-left: 9px;
+}
+.cancelar{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 285px;
+	margin-left: 9px;
+}
+.revisar{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 25px;
+	margin-top: 325px;
+	margin-left: 9px;
+}
+.caja5{
+	position: absolute;
+	margin-top: 1063px;
+	margin-left: -8px;
+	margin-right: -10px;
+	width: 1535px;
+	background-color: black;
+	height: 125px;
+}
+.logo2{
+	width: 200px;
+	height: 90px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+.instagram{
+	width: 60px;
+	height: 60px;
+	float: right;
+	margin-right: 100px;
+	margin-top: -80px;
+	display: inline;
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-right: 200px;
+	margin-top: -80px;
+	float: right;
+	display: inline;
+}
+.twitter{
+	width: 60px;
+	height: 60px;
+	margin-right: 300px;
+	margin-top: -80px;
+	float: right;
+	display: inline;	
+}
+.youtube{
+	width: 60px;
+	height: 60px;
+	margin-right: 400px;
+	float: right;
+	margin-top: -80px;
+	display: inline;
+}
+.centro1{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+	margin-top: 50px;
+}

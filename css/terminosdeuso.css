@@ -1,0 +1,196 @@
+body{
+	background-color: white;
+}
+.caja1{
+	position: fixed;
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	margin-left: -10px;
+	margin-right: -5;
+	margin-top: -8px;
+	z-index: 5;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 5px;
+}
+.centroayuda{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+}
+.idioma{
+	position: static;
+	display: inline;
+	background-color: white;
+	margin-right: 50px;
+	margin-top: -58px;
+	float: right;
+}
+h1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 45px;
+	margin-top: 120px;
+	margin-left: 15px;
+}
+.suscripción{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-top: 190px;
+	margin-left: 40px;
+}
+.suscripción1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 230px;
+}
+.suscripción2{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 340px;
+}
+.ofertas{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 40px;
+	margin-top: 440px;
+}
+.facturación{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-top: 590px;
+	margin-left: 40px;
+}
+.facturación1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 630px;
+}
+.facturación2{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 770px;
+}
+.servicio{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-top: 940px;
+	margin-left: 40px;
+}
+.servicio1{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 980px;
+}
+.servicio2{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-left: 80px;
+	margin-top: 1020px;
+}
+.contraseñas{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 19px;
+	margin-top: 1125px;
+	margin-left: 40px;
+}
+.imprimir{
+	position: absolute;
+	border: 1px solid black;
+	font-family: Calibri;
+	font-size: 30px;
+	width: 200px;
+	height: 40px;
+	margin-top: 140px;
+	margin-left: 1200px;
+}
+.impreso{
+	position: absolute;
+	margin-left: 55px;
+	margin-top: -20px;
+}
+.foto{
+	position: absolute;
+	width: 30px;
+	height: 30px;
+	margin-top: -15px;
+	margin-left: -80px;
+}
+.caja4{
+	position: absolute;
+	margin-top: 1280px;
+	margin-left: -8px;
+	margin-right: -20px;
+	width: 100%;
+	background-color: black;
+	height: 125px;
+}
+.logo1{
+	width: 200px;
+	height: 90px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+.instagram{
+	width: 60px;
+	height: 60px;
+	float: right;
+	margin-right: 50px;
+	margin-top: -70px;
+	display: inline;
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-right: 170px;
+	margin-top: -70px;
+	float: right;
+	display: inline;
+}
+.twitter{
+	width: 60px;
+	height: 60px;
+	margin-right: 280px;
+	margin-top: -70px;
+	float: right;
+	display: inline;	
+}
+.youtube{
+	width: 60px;
+	height: 60px;
+	margin-right: 400px;
+	float: right;
+	margin-top: -70px;
+	display: inline;
+}
+.centroayuda1{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+	margin-top: 50px;
+}

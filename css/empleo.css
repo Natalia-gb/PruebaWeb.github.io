@@ -1,0 +1,237 @@
+body{
+	background-color: black;
+}
+.caja1{
+	position: fixed;
+	background-color: black;
+	width: 100%;
+	height: 100px;
+	margin-left: -10px;
+	margin-right: -5;
+	margin-top: -8px;
+	z-index: 5;
+}
+.logo{
+	width: 200px;
+	height: 100px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 5px;
+}
+.empleo{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+}
+.idioma{
+	position: static;
+	display: inline;
+	background-color: white;
+	margin-right: 50px;
+	margin-top: -58px;
+	float: right;
+}
+.caja2{
+	position: absolute;
+	margin-top: 92px;
+	width: 1520px;
+	height: 250px;
+}
+.imagen{
+	position: absolute;
+	width: 1520px;
+	height: 250px;
+	filter: brightness(55%);
+}
+.comentario{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 50px;
+	margin-left: 90px;
+	margin-top: 40px;
+}
+.caja3{
+	position: absolute;
+	background-color: white;
+	margin-left: 150px;
+	margin-top: 400px;
+	width: 700px;
+	height: 300px;
+}
+.libertad{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 35px;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+.comentario2{
+	position: absolute;
+	font-family: Calibri;
+	font-size: 20px;
+	margin-left: 35px;
+	margin-top: 120px;
+}
+.cajaroja{
+	position: absolute;
+	background-color: red;
+	width: 230px;
+	height: 40px;
+	margin-left: 40px;
+	margin-top: 225px;
+}
+.comentario3{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 15px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.espaciorojo{
+	position: absolute;
+	background-color: #C61300;
+	margin-left: 850px;
+	margin-top: 400px;
+	width: 50px;
+	height: 300px;
+}
+.caja4{
+	position: absolute;
+	margin-left: 900px;
+	margin-top: 400px;
+	width: 450px;
+	height: 300px;
+}
+.imagen2{
+	position: absolute;
+	width: 450px;
+	height: 300px;
+}
+.caja5{
+	position: absolute;
+	margin-left: 150px;
+	margin-top: 770px;
+	width: 450px;
+	height: 340px;
+}
+.imagen3{
+	position: absolute;
+	width: 450px;
+	height: 340px;
+}
+.caja6{
+	position: absolute;
+	background-color: #0D0300;
+	margin-top: 770px;
+	margin-left: 600px;
+	width: 750px;
+	height: 340px;
+}
+.comentario4{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 35px;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+.comentario5{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 35px;
+	margin-left: 40px;
+	margin-top: 75px;
+}
+.comentario6{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 35px;
+	margin-left: 40px;
+	margin-top: 120px;
+}
+.comentario7{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 20px;
+	margin-left: 40px;
+	margin-top: 180px;
+}
+.cajaroja2{
+	position: absolute;
+	background-color: red;
+	width: 170px;
+	height: 40px;
+	margin-left: 40px;
+	margin-top: 280px;
+}
+.comentario8{
+	position: absolute;
+	color: white;
+	font-family: Calibri;
+	font-size: 15px;
+	margin-left: 10px;
+	margin-top: 10px;
+}
+.caja7{
+	position: absolute;
+	margin-top: 1180px;
+	margin-left: -8px;
+	margin-right: -20px;
+	width: 100%;
+	background-color: black;
+	height: 125px;
+}
+.logo1{
+	width: 200px;
+	height: 90px;
+	float: left;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+
+.instagram{
+	width: 60px;
+	height: 60px;
+	float: right;
+	margin-right: 50px;
+	margin-top: -70px;
+	display: inline;
+}
+.facebook{
+	width: 60px;
+	height: 60px;
+	margin-right: 170px;
+	margin-top: -70px;
+	float: right;
+	display: inline;
+}
+.twitter{
+	width: 60px;
+	height: 60px;
+	margin-right: 280px;
+	margin-top: -70px;
+	float: right;
+	display: inline;	
+}
+.youtube{
+	width: 60px;
+	height: 60px;
+	margin-right: 400px;
+	float: right;
+	margin-top: -70px;
+	display: inline;
+}
+.empleo1{
+	color: white;
+	font-family: Calibri;
+	font-size: 30px;
+	margin-left: 140px;
+	margin-top: 50px;
+}
+	
