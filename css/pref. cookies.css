@@ -30,7 +30,7 @@
 	float: right;
 }
 h1{
-	position: absolute;
+	float: left;
 	font-family: Calibri;
 	font-size: 40px;
 	margin-top: 120px;

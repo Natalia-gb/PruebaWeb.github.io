@@ -11,9 +11,9 @@ body{
 	z-index: 5;
 }
 .logo{
+	float: left;
 	width: 200px;
 	height: 100px;
-	float: left;
 	margin-left: 100px;
 	margin-top: 5px;
 }
@@ -98,7 +98,7 @@ body{
 	margin-top: 240px; 
 }
 .caja2.1{
-	position: absolute;
+	float: right;
 	display: inline;
 }
 .menú{
@@ -138,7 +138,7 @@ ul li:hover::before{
 	transform: scale(7);
 }
 .cine{
-	position: absolute;
+	float: right;
 	color: white;
 	font-family: Malvie Trial;
 	font-size: 30px;
@@ -210,41 +210,41 @@ ul li:hover::before{
 }
 
 .logo1{
+	float: left;
 	width: 200px;
 	height: 90px;
-	float: left;
 	margin-left: 100px;
 	margin-top: 30px;
 }
 .instagram{
+	float: right;
 	width: 60px;
 	height: 60px;
-	float: right;
 	margin-right: 50px;
 	margin-top: 30px;
 	display: inline;
 }
 .facebook{
+	float: right;
 	width: 60px;
 	height: 60px;
 	margin-right: 80px;
 	margin-top: 30px;
-	float: right;
 	display: inline;
 }
 .twitter{
+	float: right;
 	width: 60px;
 	height: 60px;
 	margin-right: 100px;
 	margin-top: 30px;
-	float: right;
 	display: inline;	
 }
 .youtube{
+	float: right;
 	width: 60px;
 	height: 60px;
 	margin-right: 100px;
-	float: right;
 	margin-top: 30px;
 	display: inline;
 }

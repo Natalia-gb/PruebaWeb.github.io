@@ -30,7 +30,7 @@
 	float: right;
 }
 .contacta{
-	position: absolute;
+	float: left;
 	font-family: Calibri;
 	font-size: 40px;
 	margin-left: 50px;
@@ -52,7 +52,7 @@
 	margin-top: 280px;
 }
 .comentario1{
-	position: absolute;
+	float: left;
 	color: red;
 	font-family: Calibri;
 	font-size: 20px;
@@ -68,7 +68,7 @@
 	margin-top: 330px;
 }
 .comentario2{
-	position: absolute;
+	float: left;
 	color: red;
 	font-family: Calibri;
 	font-size: 20px;

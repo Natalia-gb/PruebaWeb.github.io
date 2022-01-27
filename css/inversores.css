@@ -53,7 +53,7 @@ body{
 .contenido{
 	color: white;
 	font-size: 18px;
-	position: absolute;
+	float: left;
 	width: 400px;
 	height: 230px;
 	margin-top: 300px;

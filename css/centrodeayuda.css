@@ -9,9 +9,9 @@
 	z-index: 5;
 }
 .logo{
+	float: left;
 	width: 200px;
 	height: 100px;
-	float: left;
 	margin-left: 100px;
 	margin-top: 5px;
 }
@@ -45,7 +45,7 @@
 	margin-left: 10px;
 }
 .caja21{
-	position: absolute;
+	float: left;
 	width: 500px;
 	height: 250px;
 	margin-top: 0px;
